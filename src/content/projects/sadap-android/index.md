@@ -3,7 +3,7 @@ title: Jasa Sadap HP Android - Hack WA, FB, Telegram, Skype dan IG
 date: 2024-10-20T19:32:08.708Z
 description: halaman pemesanan software sadap hp android, layanan jasa hack
   pesan dari aplikasi whatsapp, fb, ig, telegram secara jarak jauh
-thumbnail: /images/2-jasa-sadap-wa.jpg
+thumbnail: 2-jasa-sadap-wa.jpg
 tags:
   - penyadap
   - android
@@ -14,18 +14,16 @@ authors:
   - Muhammad Rizki
 draft: false
 toc: true
-
-
 ---
 
 
-![jasa sadap android dan wa](/images/2-jasa-sadap-wa.jpg)
+![jasa sadap android dan wa](2-jasa-sadap-wa.jpg)
 
 Cara mudah untuk hack data WA, Facebook, Telegram, Instagram, Skype, Snapchat, Line, dan sosial media lain dengan sadap HP Android tanpa harus melakukan rooting.
 
 **Hanya membutuhkan waktu beberapa menit saja untuk pemasangan software.**
 
-> **Notice**: Menggunakan alat penyadapan hp adalah perbuatan melawan hukum dan software ini diciptakan untuk digunakan secara positif yaitu melindungi anggota keluarga terdekat dan anak, kami tidak bertanggungjawab atas penyalahgunaan dalam bentuk apapun. [Ketentuan Pengguanaan →](/disclaimer/)
+> **Notice**: Menggunakan alat penyadapan hp adalah perbuatan melawan hukum dan software ini diciptakan untuk digunakan secara positif yaitu melindungi anggota keluarga terdekat dan anak, kami tidak bertanggungjawab atas penyalahgunaan dalam bentuk apapun.
 
 
 
@@ -34,7 +32,7 @@ Cara mudah untuk hack data WA, Facebook, Telegram, Instagram, Skype, Snapchat, L
 
 Akses file *(folder manager)* yang di ambil dari memori hp internal seseorang dan juga akses kamera secara jarak jauh. Pantau gadget dengan melalui fitur remote kamera depan & belakang dari hp target dengan mudah juga dapat download data.
 
-![akses file jarak jauh](/images/2-akses-file-jarak-jauh.jpg)
+![akses file jarak jauh](2-akses-file-jarak-jauh.jpg)
 
 ## Jasa Hack Data WA
 
@@ -56,7 +54,7 @@ Penyadap data akan simpan chat WhatsApp dari Android, pantau setiap pesan WA yan
 * Hack Gmail
 * Sadap Viber
 
-![cara hack wa](/images/2-hack-wa-kdo32s.jpg)
+![cara hack wa](2-hack-wa-kdo32s.jpg)
 
 
 
@@ -75,13 +73,13 @@ Cara mudah lacak lokasi akurat pada setiap tempat yang sudah di singgahi oleh ta
 
 Melacak lokasi pada setiap tempat yang di-singgahi oleh target secara tepat dan real time, dengan menggunakan fitur Tracker GPS dari smartphone Android.
 
-![lacak lokasi akurat](/images/2-lacak-lokasi-nvd365.jpg)
+![lacak lokasi akurat](2-lacak-lokasi-nvd365.jpg)
 
 ## Rekam Panggilan Telepon
 
 Rekam setiap data obrolan panggilan telepon dari hp seseorang, dengarkan dari setiap aktivitas percakapan panggilan masuk dan keluar pastikan setiap komunikasi suara rahasia dari ponsel target secara jarak jauh (setelah pemasangan software berhasil).
 
-![rekam panggilan](/images/2-rekam-panggilan-suara-klmn.jpg)
+![rekam panggilan](2-rekam-panggilan-suara-klmn.jpg)
 
 wa.me/628977O99932 →
 
@@ -100,13 +98,13 @@ Pastikan semua data sudah di lengkapi, sebelum Anda kirim.
 
 Hack pesan masuk dari beberapa aplikasi provider email dari smartphone seseorang dengan mudah, lihat setiap data pesan rahasia email yang masuk dan juga keluar dari beberapa layanan akun Gmail (Google Mail), Yahoo, Hotmail & Aol.
 
-![sadap email](/images/2-sadap-data-email.jpg)
+![sadap email](2-sadap-data-email.jpg)
 
 ## Sadap Pesan SMS
 
 Sadap setiap data pesan SMS dari hp seseorang dengan mudah, lihat setiap aktivitas pesan rahasia baik pesan masuk atau pesan terkirim dan pesan yang sudah dihapus, untuk menghilangkan jejak.
 
-![sadap sms](/images/2-sadap-data-sms-e03kv.jpg)
+![sadap sms](2-sadap-data-sms-e03kv.jpg)
 
 > Sadap HP Online – Software penyadap dengan harga murah dan kualitas terbaik
 
@@ -227,4 +225,4 @@ Silahkan, anda akan sangat diuntungkan apabila banyak orang yang tahu kode disko
 
 Silahkan anda hubungi langsung kami melalui telepon, SMS, WA, Facebook Messenger, Instagram, Telegram, Skype atau email yang tertera di samping kanan halaman ini, kami akan menjelaskan prosedur dan data apa saja yang akan kami perlukan.
 
-![jasa aplikasi sadpa hp android](/images/jasa-aplikasi-sadap.jpg)
+![jasa aplikasi sadpa hp android](jasa-aplikasi-sadap.jpg)
