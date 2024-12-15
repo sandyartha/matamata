@@ -7,6 +7,12 @@ import Link from "@components/Link.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 
+
+import { Image, Picture, GetImage } from 'astro:assets';
+import myImage from '../assets/astro-nano.png';
+
+
+
 const blog = (await getCollection("blog"))
   .filter((post) => !post.data.draft)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
@@ -48,6 +54,15 @@ const projects: CollectionEntry<"projects">[] = (
                   href="https://wa.me/6219289238234"
                   >wa.me/6219289238234
                 </Link>
+
+                <Image 
+                    src={myImage}
+                    width={480}
+                    height={270}
+                    alt="A barking dog."
+                    class="my-8"
+                />
+
               </p>
             </span>
             <span class="animate">
