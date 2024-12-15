@@ -9,7 +9,7 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Home",
+  TITLE: "Jasa Sadap WA untuk iPhone dan Android",
   DESCRIPTION: "Jasa Sadap WhatsApp dengan aplikasi penyadap iPhone dan android gratis.",
 };
 
