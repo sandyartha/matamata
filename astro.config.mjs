@@ -9,7 +9,15 @@ import pagefind from "astro-pagefind";
 export default defineConfig({
   site: "https://matamata.netlify.app",
   trailingSlash: "never",
-  integrations: [tailwind(), sitemap(), mdx(), pagefind()],
+  integrations: [
+    tailwind(), 
+    sitemap({
+      changefreq: 'weekly',
+      priority: 0.7,
+      lastmod: new Date('2022-02-24'),
+    }), 
+    mdx(),
+    pagefind()],
   markdown: {
     shikiConfig: {
       theme: "css-variables",
