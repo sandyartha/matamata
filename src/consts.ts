@@ -14,12 +14,12 @@ export const HOME: Metadata = {
 };
 
 export const BLOG: Metadata = {
-  TITLE: "Blog",
+  TITLE: "Koleksi konten Blog",
   DESCRIPTION: "Kumpulan ulasan aplikasi sadap dan tool online untuk produktivitas.",
 };
 
 export const PROJECTS: Metadata = {
-  TITLE: "Projects",
+  TITLE: "Koleksi konten Projects",
   DESCRIPTION:
     "Kumpulan project penyadap hp dan komputer dengan ulasan lengkap dan mendalam.",
 };
